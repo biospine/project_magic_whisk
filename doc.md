@@ -1,0 +1,1 @@
+Hardware requirements for automatic cat feeder
