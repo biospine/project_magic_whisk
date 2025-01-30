@@ -1,3 +1,4 @@
+Project to make a magic whisk and other stuff.
 Project to make a magic whisk.
 
 Project has expanded to automatic cat feeders.
