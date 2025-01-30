@@ -1,1 +1,1 @@
-Project to make a magic whisk.
+Project to make a magic whisk and other stuff.
